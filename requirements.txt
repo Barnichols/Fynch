@@ -1,0 +1,5 @@
+setuptools
+unittest
+numpy>=1.17
+slycot
+control
