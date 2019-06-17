@@ -1,7 +1,7 @@
 # Fynch
 The start of something fun
 
-#Dependencies
+# Dependencies
 `$pip install --user -r requirements.txt`
 
 # Build
